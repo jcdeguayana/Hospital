@@ -1,0 +1,1288 @@
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Vistas\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Vistas\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Vistas\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\Vistas\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\Vistas\Vistas\obj\Debug\Vistas.pdb
+C:\Users\serap\Downloads\Vistas\Vistas\bin\Vistas.dll.config
+C:\Users\serap\Downloads\Vistas\Vistas\bin\Vistas.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\Vistas.pdb
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csc.exe
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csc.exe.config
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csc.rsp
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csi.exe
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csi.exe.config
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\csi.rsp
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Console.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\vbc.exe
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\vbc.rsp
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\serap\Downloads\Vistas\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serap\Downloads\Vistas\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serap\Downloads\Vistas\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serap\Downloads\Vistas\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\serap\Downloads\Vistas\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\serap\Downloads\Vistas\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\serap\Downloads\Vistas\Vistas\obj\Debug\Vistas.dll
+C:\Users\serap\Downloads\Vistas\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (1)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\Integrador\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (1)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\HOSPITAL (7) (1)\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\OneDrive\Escritorio\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Dao.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Downloads\HOSPITAL\HOSPITAL\Vistas\obj\Debug\Vistas.pdb

@@ -1,0 +1,54 @@
+C:\Users\serap\Downloads\Vistas\Entidades\bin\Debug\Entidades.dll
+C:\Users\serap\Downloads\Vistas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serap\Downloads\Vistas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\serap\Downloads\Vistas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serap\Downloads\Vistas\Entidades\obj\Debug\Entidades.dll
+C:\Users\serap\Downloads\Vistas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Materias\Programacion\Prog lll\TPI\HOSPITAL1\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\serap\Downloads\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Hospital (Ultimo) (2)\Hospital (Ultimo)\Hospital (Ultimo)\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\HOSPITAL (6)\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\serap\Desktop\hfghfghfgh\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\serap\Desktop\rerere\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\serap\Desktop\TP FINAL PARA ENTREGAR\HOSPITAL\HOSPITAL\HOSPITAL\Entidades\obj\Debug\Entidades.pdb

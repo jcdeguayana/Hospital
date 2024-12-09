@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadomedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadomedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadopacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadopacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\misdatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\misdatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\horariosmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\horariosmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\asignarturno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\asignarturno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadoturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadoturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\mainpagemedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\mainpagemedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\agregarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\agregarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\dao\\daomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\daomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\asignarturno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\asignarturno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|c:\\users\\serap\\desktop\\tp final para entregar\\hospital\\hospital\\hospital\\vistas\\agregarmedico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarmedico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadoturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadoturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadomedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadomedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\listadopacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadopacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\vistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MisTurnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MisTurnos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MisTurnos.aspx",
+              "RelativeToolTip": "Vistas\\MisTurnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:25:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turnos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Turnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Turnos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Turnos.aspx",
+              "RelativeToolTip": "Vistas\\Turnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:02:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregarPaciente.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarPaciente.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AgregarPaciente.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarPaciente.aspx",
+              "RelativeToolTip": "Vistas\\AgregarPaciente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:47:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListadoPacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoPacientes.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx",
+              "RelativeToolTip": "Vistas\\ListadoPacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:20:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListadoMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoMedicos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx",
+              "RelativeToolTip": "Vistas\\ListadoMedicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MisDatos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MisDatos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MisDatos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MisDatos.aspx",
+              "RelativeToolTip": "Vistas\\MisDatos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:27:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HorariosMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\HorariosMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\HorariosMedico.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\HorariosMedico.aspx",
+              "RelativeToolTip": "Vistas\\HorariosMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:10:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListadoTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoTurnos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx",
+              "RelativeToolTip": "Vistas\\ListadoTurnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:35:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medicos.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Medicos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Medicos.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Medicos.aspx",
+              "RelativeToolTip": "Vistas\\Medicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:08:12.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MainPage.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MainPage.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MainPage.aspx",
+              "RelativeToolTip": "Vistas\\MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:50:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsignarTurno.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AsignarTurno.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx",
+              "RelativeToolTip": "Vistas\\AsignarTurno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPageMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MainPageMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MainPageMedico.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\MainPageMedico.aspx",
+              "RelativeToolTip": "Vistas\\MainPageMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:53:35.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Pacientes.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Pacientes.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Pacientes.aspx",
+              "RelativeToolTip": "Vistas\\Pacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:59:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgregarMedico.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\AgregarMedico.aspx.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx.cs",
+              "RelativeToolTip": "Vistas\\AgregarMedico.aspx.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAlwGcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:25:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DaoMedico.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Dao\\DaoMedico.cs",
+              "RelativeDocumentMoniker": "Dao\\DaoMedico.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Dao\\DaoMedico.cs",
+              "RelativeToolTip": "Dao\\DaoMedico.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAswG8BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:26:05.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgregarMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AgregarMedico.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx",
+              "RelativeToolTip": "Vistas\\AgregarMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:23.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AsignarTurno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\AsignarTurno.aspx.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx.cs",
+              "RelativeToolTip": "Vistas\\AsignarTurno.aspx.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:26:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListadoTurnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoTurnos.aspx.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoTurnos.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:47.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Login.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Login.aspx",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\Login.aspx",
+              "RelativeToolTip": "Vistas\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T12:50:32.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Dao\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Dao\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Dao\\AccesoDatos.cs",
+              "RelativeToolTip": "Dao\\AccesoDatos.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:31:38.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NegocioMedico.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioMedico.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioMedico.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioMedico.cs",
+              "RelativeToolTip": "Negocio\\NegocioMedico.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:27:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ListadoPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoPacientes.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA5wFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:20:38.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListadoMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\serap\\Desktop\\TP FINAL PARA ENTREGAR\\HOSPITAL\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoMedicos.aspx.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:26:09.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

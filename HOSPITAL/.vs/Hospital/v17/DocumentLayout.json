@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|c:\\users\\usuario\\desktop\\hospital\\hospital\\dao\\daopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\daopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\asignarturno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\asignarturno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\negocio\\negocioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\agregarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\negocio\\negociopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\dao\\daoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\daoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\asignarturno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\asignarturno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadomedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadomedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadopacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadopacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\misdatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\misdatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\horariosmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\horariosmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadoturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadoturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\mainpagemedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\mainpagemedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\agregarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\dao\\daomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C4EB0-6753-4624-B182-FE1312A71D31}|Dao\\Dao.csproj|solutionrelative:dao\\daomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\agregarmedico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarmedico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7AF02E-9DC0-44A9-AF05-00FBEC5AF2F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadoturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadoturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadomedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadomedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\listadopacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadopacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\vistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B24089D-02CC-4DFC-8BCD-746D4698007A}|Vistas\\Vistas.csproj|solutionrelative:vistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NegocioTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioTurno.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioTurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioTurno.cs",
+              "RelativeToolTip": "Negocio\\NegocioTurno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:09:03.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HorariosMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\HorariosMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\HorariosMedico.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\HorariosMedico.aspx",
+              "RelativeToolTip": "Vistas\\HorariosMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:10:40.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignarTurno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\AsignarTurno.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx.cs",
+              "RelativeToolTip": "Vistas\\AsignarTurno.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:26:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DaoPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoPaciente.cs",
+              "RelativeDocumentMoniker": "Dao\\DaoPaciente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoPaciente.cs",
+              "RelativeToolTip": "Dao\\DaoPaciente.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAANEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:32:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarPaciente.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarPaciente.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AgregarPaciente.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarPaciente.aspx",
+              "RelativeToolTip": "Vistas\\AgregarPaciente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:47:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Dao\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\AccesoDatos.cs",
+              "RelativeToolTip": "Dao\\AccesoDatos.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAlwHAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:31:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NegocioPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioPaciente.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioPaciente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioPaciente.cs",
+              "RelativeToolTip": "Negocio\\NegocioPaciente.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:46:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MisDatos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MisDatos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MisDatos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MisDatos.aspx",
+              "RelativeToolTip": "Vistas\\MisDatos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:27:44.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DaoTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoTurno.cs",
+              "RelativeDocumentMoniker": "Dao\\DaoTurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoTurno.cs",
+              "RelativeToolTip": "Dao\\DaoTurno.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:31:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListadoMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoMedicos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx",
+              "RelativeToolTip": "Vistas\\ListadoMedicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:05.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsignarTurno.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AsignarTurno.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AsignarTurno.aspx",
+              "RelativeToolTip": "Vistas\\AsignarTurno.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:35.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListadoPacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoPacientes.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx",
+              "RelativeToolTip": "Vistas\\ListadoPacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:20:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turnos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Turnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Turnos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Turnos.aspx",
+              "RelativeToolTip": "Vistas\\Turnos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:02:27.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MisTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MisTurnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MisTurnos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MisTurnos.aspx",
+              "RelativeToolTip": "Vistas\\MisTurnos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:25:28.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListadoTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\ListadoTurnos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx",
+              "RelativeToolTip": "Vistas\\ListadoTurnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:35:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicos.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Medicos.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Medicos.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Medicos.aspx",
+              "RelativeToolTip": "Vistas\\Medicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T17:08:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MainPage.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MainPage.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MainPage.aspx",
+              "RelativeToolTip": "Vistas\\MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:50:49.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPageMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MainPageMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\MainPageMedico.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\MainPageMedico.aspx",
+              "RelativeToolTip": "Vistas\\MainPageMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:53:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Pacientes.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Pacientes.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Pacientes.aspx",
+              "RelativeToolTip": "Vistas\\Pacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:59:52.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AgregarMedico.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\AgregarMedico.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx.cs",
+              "RelativeToolTip": "Vistas\\AgregarMedico.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:25:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DaoMedico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoMedico.cs",
+              "RelativeDocumentMoniker": "Dao\\DaoMedico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Dao\\DaoMedico.cs",
+              "RelativeToolTip": "Dao\\DaoMedico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:26:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgregarMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx",
+              "RelativeDocumentMoniker": "Vistas\\AgregarMedico.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\AgregarMedico.aspx",
+              "RelativeToolTip": "Vistas\\AgregarMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T13:26:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListadoTurnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoTurnos.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoTurnos.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoTurnos.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Login.aspx",
+              "RelativeDocumentMoniker": "Vistas\\Login.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\Login.aspx",
+              "RelativeToolTip": "Vistas\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T12:50:32.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NegocioMedico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioMedico.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioMedico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Negocio\\NegocioMedico.cs",
+              "RelativeToolTip": "Negocio\\NegocioMedico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:27:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ListadoPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoPacientes.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoPacientes.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:20:38.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ListadoMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "Vistas\\ListadoMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\HOSPITAL\\HOSPITAL\\Vistas\\ListadoMedicos.aspx.cs",
+              "RelativeToolTip": "Vistas\\ListadoMedicos.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:26:09.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
